@@ -8,6 +8,9 @@ https://pt.wikipedia.org/wiki/Pilha_(inform%C3%A1tica)
 
 #### Notacao polonesa inversa
 
+**Importante**
+Este link tem uma seccao entitulada _Cálculo com o auxílio de uma pilha_. Para nao facilitar o exercicio demais, eu aconselho nao a ler antes de tentares encontrar a solucao.
+
 https://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_polonesa_inversa
 
 ## Objectivo
